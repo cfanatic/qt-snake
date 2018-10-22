@@ -1,5 +1,5 @@
 # Snake
-Quick and dirty implementation of the game Snake using the Qt library. Check out the [gameplay picture](https://github.com/cfanatic/qt-snake/blob/master/res/gameplay.png) and [gameplay video](https://codefanatic.de/git/snake.m4v) to get a preview!
+Quick and dirty implementation of the game Snake using the Qt library. Check out the [**gameplay picture**](https://github.com/cfanatic/qt-snake/blob/master/res/gameplay.png) and [**gameplay video**](https://codefanatic.de/git/snake.m4v) to get a preview!
 
 ## Requirements
 Developed on the following setup: 
